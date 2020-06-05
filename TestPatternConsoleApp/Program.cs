@@ -6,7 +6,7 @@ namespace TestPatternConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello TestPatternConsoleApp!");
+            Console.WriteLine("Hello TestPatternConsoleApp from jan arild!");
         }
     }
 }
