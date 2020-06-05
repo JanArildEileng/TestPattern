@@ -11,13 +11,10 @@ namespace Pattern.Stategy
 
             Console.WriteLine($"Hello from { nameof(StrategyClient)}");
 
-            DoIt();
+            strategyContext.DoIt();
 
         }
 
-        private void DoIt()
-        {
-            strategyContext.Strategy.DoIt();
-        }
+       
     }
 }

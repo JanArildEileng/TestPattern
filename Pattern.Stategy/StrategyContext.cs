@@ -9,5 +9,10 @@ namespace Pattern.Stategy
 
         public IStrategy Strategy { get; set; }
 
+        public  void DoIt()
+        {
+            Strategy.DoIt();
+        }
+
     }
 }
