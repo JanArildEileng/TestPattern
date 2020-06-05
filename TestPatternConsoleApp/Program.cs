@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pattern.Stategy;
+using System;
 
 namespace TestPatternConsoleApp
 {
@@ -7,6 +8,10 @@ namespace TestPatternConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello TestPatternConsoleApp from jan arild!");
+
+            StategyClient stategyClient = new StategyClient();
+            stategyClient.Run();
+
         }
     }
 }
