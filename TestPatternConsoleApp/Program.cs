@@ -9,7 +9,7 @@ namespace TestPatternConsoleApp
         {
             Console.WriteLine("Hello TestPatternConsoleApp from jan arild!");
 
-            StategyClient stategyClient = new StategyClient();
+            StrategyClient stategyClient = new StrategyClient();
             stategyClient.Run();
 
         }
