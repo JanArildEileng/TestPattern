@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pattern.Stategy
+namespace Pattern.Strategy
 {
     public class StrategyClient
     {

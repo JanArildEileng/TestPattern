@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPatternConsoleApp", "TestPatternConsoleApp\TestPatternConsoleApp.csproj", "{E6DAE002-58AC-4E85-8F7C-68BC5FC6D2E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Stategy", "Pattern.Stategy\Pattern.Stategy.csproj", "{30D5C771-E324-4597-85E7-3578B968C10B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern.Strategy", "Pattern.Strategy\Pattern.Strategy.csproj", "{30D5C771-E324-4597-85E7-3578B968C10B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

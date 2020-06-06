@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Pattern.Stategy
+namespace Pattern.Strategy
 {
     public class ConcreateStrategy : IStrategy
     {

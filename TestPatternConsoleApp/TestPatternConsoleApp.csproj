@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Pattern.Stategy\Pattern.Stategy.csproj" />
+    <ProjectReference Include="..\Pattern.Strategy\Pattern.Strategy.csproj" />
   </ItemGroup>
 
 </Project>

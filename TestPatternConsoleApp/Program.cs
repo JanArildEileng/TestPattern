@@ -1,4 +1,4 @@
-﻿using Pattern.Stategy;
+﻿using Pattern.Strategy;
 using System;
 
 namespace TestPatternConsoleApp
